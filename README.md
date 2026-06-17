@@ -1,4 +1,4 @@
-# Vitrine Virtual — Feira do Largo da Ordem
+<img width="611" height="346" alt="image" src="https://github.com/user-attachments/assets/562d3d3f-889b-4e0a-a68e-8870e630c4a9" /># Vitrine Virtual — Feira do Largo da Ordem
 
 Aplicativo iOS nativo em **SwiftUI** que simula uma vitrine virtual de produtos
 artesanais da tradicional Feira do Largo da Ordem (Curitiba), com **foco em
@@ -60,8 +60,11 @@ VitrineFeiraLagoOrdem/
 
 ## Equipe
 
-- _(Integrante 1)_
-- _(Integrante 2)_
-- _(Integrante 3)_
-- _(Integrante 4)_
-- _(Integrante 5)_
+- _Bruna da Silva Carnelossi_
+- _João Pedro de Souza Quintiliano da Silva_
+- _João Victor Carvalho de Freitas_
+- _Matheus Henrique Heinzen_
+	
+
+
+
